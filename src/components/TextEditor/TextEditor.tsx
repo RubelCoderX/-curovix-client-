@@ -3,7 +3,7 @@ import React from "react";
 const TextEditor = () => {
   return (
     <div
-      id="textEditor"
+      id="about"
       className="bg-white p-6 rounded-lg my-20  h-[656px] flex items-center justify-center"
     >
       <p className="text-center text-gray-700 leading-relaxed max-w-[1040px] text-4xl">

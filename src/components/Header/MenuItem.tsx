@@ -4,10 +4,10 @@ import Link from "next/link";
 
 const menuItems = [
   { name: "Home", href: "/", showOnMobile: false },
-  { name: "About Us", href: "/#about-us", showOnMobile: true },
+  { name: "About Us", href: "/#about", showOnMobile: true },
   { name: "Service", href: "/#service", showOnMobile: true },
   { name: "Work", href: "/#work", showOnMobile: false },
-  { name: "FAQs", href: "/#faqs", showOnMobile: false },
+  { name: "FAQs", href: "/#faq", showOnMobile: false },
   { name: "Contact", href: "/#contact", showOnMobile: false },
 ];
 
